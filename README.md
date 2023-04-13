@@ -23,7 +23,7 @@ To run both algorithms, first create a local copy of the github repo to your mac
 
 ## Algorithm B Directories
 
-![Algorithm B Directory Path](photos/Algorithm-B-Directory.PNG)
+![Algorithm B Directory Path](photos/Algorithm-B-Directory-2.PNG)
 
 # Implementation & Results
 
