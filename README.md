@@ -18,6 +18,10 @@ Enclosed below are our pseudo code implementations of both Algorithm A, and Algo
 
 To run both algorithms, first create a local copy of the github repo to your machine. Next, make sure to take note of where both datasets are stored on your local machine, you will need the directory path of their location in order for both algorithms to be able to find and parse the data within them. For both Algorithms, locate the lines containing the data parser input with sample directories, and replace them with the directory of your own dataset locations. If done succesfully, both will begin to parse through both datasets, and will output a final runtime taken once they have completed the acronym replacement function.
 
+![Algorithm A Directory Path](photos/Algorithm-A-Directory.png)
+![Algorithm A Directory Path](photos/Algorithm-A-Directory-2.png)
+![Algorithm B Directory Path](photos/Algorithm-B-Directory.png)
+
 ## Algorithm A PseudoCode:
 
 ![Algorithm A PseudoCode](photos/Algorithm-A.png)
