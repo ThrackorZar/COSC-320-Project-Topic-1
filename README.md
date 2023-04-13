@@ -12,15 +12,22 @@ Our first algorithm approach was a initial naive attempt at creating a solution 
 
 For our second algorithm, Our main focus was on increasing efficiency compared to our naive algorithm implementation by implementing a Hash table and Trie based data structure for storing our acronym list. As the time taken to travers Trie data structure was drastically more efficient then spanning through a two dimensional array, it lead to large improvments in runtime compared to our first algorithm design.
 
-Enclosed below are our pseudo code implementations of both Algorithm A, and Algorithm B, aswell as the runtime graphs showing the runtime scaling based on tweet dataset size inputted into both algorithms, and a comparison of runtime between both algorithms.
-
-# How to run
+# How to run - READ ME!
 
 To run both algorithms, first create a local copy of the github repo to your machine. Next, make sure to take note of where both datasets are stored on your local machine, you will need the directory path of their location in order for both algorithms to be able to find and parse the data within them. For both Algorithms, locate the lines containing the data parser input with sample directories, and replace them with the directory of your own dataset locations. If done succesfully, both will begin to parse through both datasets, and will output a final runtime taken once they have completed the acronym replacement function.
 
+## Algorithm A Directories
+
 ![Algorithm A Directory Path](photos/Algorithm-A-Directory.PNG)
 ![Algorithm A Directory Path](photos/Algorithm-A-Directory-2.PNG)
+
+## Algorithm B Directories
+
 ![Algorithm B Directory Path](photos/Algorithm-B-Directory.PNG)
+
+# Implementation & Results
+
+Enclosed below are our pseudo code implementations of both Algorithm A, and Algorithm B, aswell as the runtime graphs showing the runtime scaling based on tweet dataset size inputted into both algorithms, and a comparison of runtime between both algorithms.
 
 ## Algorithm A PseudoCode:
 
