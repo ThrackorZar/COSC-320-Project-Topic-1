@@ -14,8 +14,22 @@ For our second algorithm, Our main focus was on increasing efficiency compared t
 
 Enclosed below are our pseudo code implementations of both Algorithm A, and Algorithm B, aswell as the runtime graphs showing the runtime scaling based on tweet dataset size inputted into both algorithms, and a comparison of runtime between both algorithms.
 
+## Algorithm A:
+
 ![Algorithm A PseudoCode](photos/Algorithm-A.png)
+
+## Algorithm B:
+
 ![Algorithm B PseudoCode](photos/Algorithm-B.png)
+
+## Algorithm A Efficiency:
+
 ![Algorithm A Runtime](photos/Algorithm-A-Efficiency.png)
+
+## Algorithm B Efficiency:
+
 ![Algorithm B Runtime](photos/Algorithm-B-Efficiency.png)
+
+## Algorithm A vs. Algorithm B efficiency
+
 ![Algorithm A & B Runtime comparison](photos/Algorithm-Comparison.png)
