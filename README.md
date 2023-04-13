@@ -1,3 +1,7 @@
+The project was completed by:
+Ahmad Daoud
+Jaden Edgar
+Miles Deboer
 # COSC 320 - Project Topic 1
 
 For our project, we chose the first project topic of creating two algorithms to take in a variable sized dataset of plain english text with acronyms, and expand any acronyms found into their full english counter parts. This project was done as a practise in identifying and implementing efficient solutions to large algorithm design problems.
